@@ -22,4 +22,6 @@ public class CaseInsuranceController {
         return caseInsuranceService.getAllInsurancesCaseDto();
     }
 
+    //todo handleExceptions, catchExceptions when incorrect data
+
 }
